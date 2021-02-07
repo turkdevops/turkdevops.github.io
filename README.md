@@ -66,3 +66,5 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 # Bağıs
 
 <a href="https://donorbox.org/turkdevops">Donate Text or Image HTML</a>
+
+<script type = 'text / javascript' src = 'https: //www.openhub.net/stacks/114562/widgets/stack_normal? icon_width = 24 & icon_height = 24 & title = Open% 20Hub% 20Stack & width = 354 & projects_shown = 24 & noclear = true'> < / script>
