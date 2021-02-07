@@ -59,8 +59,10 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 [![Known Vulnerabilities](https://snyk.io/test/github/turkdevops/node/badge.svg?targetFile=deps/node-inspect/package.json)](https://snyk.io/test/github/turkdevops/node?targetFile=deps/node-inspect/package.json) [![Join the chat at https://gitter.im/turkdevops/Sohbet](https://badges.gitter.im/turkdevops/Sohbet.svg)](https://gitter.im/turkdevops/Sohbet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ---
 # Stack
+
 <a target="_blank" href="https://www.openhub.net/accounts/LIANGYAN?ref=sample"> <img alt = 'LIANGYAN için Hub profilini aç' border = '0' height = '35 ' src = 'https: //www.openhub.net/accounts/LIANGYAN/widgets/account_detailed? format = gif & amp; ref = örnek' width = '230'>
 </a>
+
 ---
 # DevTurks Ekibi
 [kadirselcuk!](https://github.com/kadirselcuk)
