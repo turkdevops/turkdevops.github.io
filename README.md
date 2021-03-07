@@ -46,7 +46,6 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 # Sohbet Odaları 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/793901cd9178477a96c1adb6fc38b50d)](https://app.codacy.com/gh/turkdevops/turkdevops.github.io?utm_source=github.com&utm_medium=referral&utm_content=turkdevops/turkdevops.github.io&utm_campaign=Badge_Grade_Settings)
 [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.kiwiirc.com/TurkDevOps.png)](https://kiwiirc.com/client/irc.kiwiirc.com/?nick=DevTurks|?#TurkDevOps)
-
 [![Gitter](https://badges.gitter.im/turkdevops/community.svg)](https://gitter.im/turkdevops/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ---
 # Test Ortamı
@@ -60,14 +59,9 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 [![Known Vulnerabilities](https://snyk.io/test/github/turkdevops/node/badge.svg?targetFile=deps/node-inspect/package.json)](https://snyk.io/test/github/turkdevops/node?targetFile=deps/node-inspect/package.json) [![Join the chat at https://gitter.im/turkdevops/Sohbet](https://badges.gitter.im/turkdevops/Sohbet.svg)](https://gitter.im/turkdevops/Sohbet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ---
 # Stack
-<a target="_blank" href="https://www.openhub.net/accounts/kadirselcuk?ref=sample"> <img alt = 'kadirselcuk için Hub profilini aç' border = '0' height = '35 ' src = 'https: //www.openhub.net/accounts/kadirselcuk/widgets/account_detailed? format = gif & amp; ref = örnek' width = '230'>
-</a>
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/turkdevops/turkdevops)
 ---
 # DevTurks Ekibi
 [kadirselcuk!](https://github.com/kadirselcuk)
-[Ahocan!](https://github.com/Ahocan) 
 ---
-# Bağıs
-
-<a href="https://donorbox.org/turkdevops">Donate Text or Image HTML</a>
 
