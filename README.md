@@ -44,7 +44,6 @@ Ruby için kitaplık paketleme ve dağıtma
 Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone Olun!](https://lists.sourceforge.net/lists/listinfo/turkdevops-post) 
 ---
 # Sohbet Odaları 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/793901cd9178477a96c1adb6fc38b50d)](https://app.codacy.com/gh/turkdevops/turkdevops.github.io?utm_source=github.com&utm_medium=referral&utm_content=turkdevops/turkdevops.github.io&utm_campaign=Badge_Grade_Settings)
 [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.kiwiirc.com/TurkDevOps.png)](https://kiwiirc.com/client/irc.kiwiirc.com/?nick=DevTurks|?#TurkDevOps)
 [![Gitter](https://badges.gitter.im/turkdevops/community.svg)](https://gitter.im/turkdevops/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ---
