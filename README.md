@@ -61,6 +61,6 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/turkdevops/turkdevops)
 ---
 # DevTurks Ekibi
-[kadirselcuk!](https://github.com/kadirselcuk)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lisansı" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="https://turkdevops.github.io" property="cc:attributionName" rel="cc:attributionURL">Kadir Selçuk</a> isimli yazarın <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">DevTurks</span> başlıklı eseri bu <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Atıf 4.0 Uluslararası Lisansı </a> ile lisanslanmıştır.<br /><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/turkdevops" rel="dct:source">https://github.com/turkdevops</a> bağlantısındaki esere dayalı olarak.
 ---
 
