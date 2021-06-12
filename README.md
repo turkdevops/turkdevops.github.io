@@ -55,6 +55,7 @@ Güvenlik ve yazılım güncellemeleri için [TurkDevOps Posta Listesine Abone O
 [![Crowdin](https://badges.crowdin.net/turkdevops/localized.svg)](https://crowdin.com/project/turkdevops) 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a3d570568834d1aa1dd09e8e0c8973b)](https://www.codacy.com/gh/turkdevops/turkdevops.github.io/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=turkdevops/turkdevops.github.io&amp;utm_campaign=Badge_Grade)
 ![CI/PR](https://github.com/git/git/workflows/CI/PR/badge.svg)
+[![CI](https://github.com/turkdevops/turkdevops.github.io/actions/workflows/main.yml/badge.svg?branch=circleci-project-setup)](https://github.com/turkdevops/turkdevops.github.io/actions/workflows/main.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/turkdevops/node/badge.svg?targetFile=deps/node-inspect/package.json)](https://snyk.io/test/github/turkdevops/node?targetFile=deps/node-inspect/package.json) [![Join the chat at https://gitter.im/turkdevops/Sohbet](https://badges.gitter.im/turkdevops/Sohbet.svg)](https://gitter.im/turkdevops/Sohbet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ---
 # Stack
