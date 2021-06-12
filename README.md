@@ -1,5 +1,8 @@
 Türk Geliştirici Operasyonları
 ---
+[![CI](https://github.com/turkdevops/turkdevops.github.io/actions/workflows/main.yml/badge.svg?branch=whitesource%2Fconfigure)](https://github.com/turkdevops/turkdevops.github.io/actions/workflows/main.yml)
+
+
 # Konular
 [Grafana](https://turkdevops.github.io/grafana)
 Grafit, InfluxDB ve Prometheus ve Daha Fazlası için güzel izleme ve metrik analitik ve gösterge tabloları için araç
